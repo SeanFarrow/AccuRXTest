@@ -11,7 +11,7 @@
         public string Recipient { get; set; }
 
         /// <summary>
-        /// The text we wish to include inthe message (up to 160 characters.)
+        /// The text we wish to include in the message (up to 160 characters.)
         /// </summary>
         public string Body { get; set; }
 
