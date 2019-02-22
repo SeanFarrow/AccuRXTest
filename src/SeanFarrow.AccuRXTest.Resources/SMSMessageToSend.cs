@@ -3,7 +3,7 @@
     /// <summary>
     /// Represents the details of an SMS message we wish to send through the API.
     /// </summary>
-    public class SMSMessageToSendResource
+    public class SMSMessageToSend
     {
         /// <summary>
         /// The mobile phone number of the person to which the message should be sent.
